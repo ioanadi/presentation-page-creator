@@ -1,4 +1,4 @@
-# presentation-page-creator-new
+# presentation-page-creator
 
 ## Project setup
 ```
