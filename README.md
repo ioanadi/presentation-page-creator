@@ -4,4 +4,4 @@ Presentation-page-creator allows the user to drag and drop widgets into a page p
 ```$ npm install```
 
 ### Serve with hot reload at localhost:8080
-```$ npm run dev```
+```$ npm run serve```
