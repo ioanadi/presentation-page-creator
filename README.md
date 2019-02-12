@@ -1,29 +1,7 @@
-# presentation-page-creator
+Presentation-page-creator allows the user to drag and drop widgets into a page preview and customize them. 
 
-## Project setup
-```
-npm install
-```
+### Install dependencies
+```$ npm install```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Serve with hot reload at localhost:8080
+```$ npm run dev```
